@@ -11,11 +11,11 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Victor Williams — Frontend Engineer",
+  title: "Tang Heng - Software Developer",
   description:
-    "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Software Developer and Freelancer, currently a student at NUS. Focused on interfaces and experiences, working remotely from Cambodia.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Tang Heng",
   keywords: [
     "freelance",
     "developer",
@@ -37,17 +37,17 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "Tang Heng - Software Developer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "Software Developer and Freelancer, currently a student at NUS. Focused on interfaces and experiences, working remotely from Cambodia.",
+    url: "https://draxler.lol/",
+    siteName: "draxler.lol",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://cdn.draxler.lol/Dq.png",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Tang Heng - Software Developer",
       },
     ],
     locale: "en-US",
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Tang Heng - Software Developer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
-    creatorId: "1243720976552144897",
+      "Software Developer and Freelancer, currently a student at NUS. Focused on interfaces and experiences, working remotely from Cambodia.",
+    creator: "stuvythegoat",
+    creatorId: "1412410690141310982",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://cdn.draxler.lol/Dq.png",
     ],
   },
   robots: {
