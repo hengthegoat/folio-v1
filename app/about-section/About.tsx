@@ -36,17 +36,17 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "In addition to my work in software development, I’m also an active leader and member of tech communities on campus, including the Google Developer Student Clubs and Microsoft Learn Student Ambassadors."
+                "In addition to my work in software development, I’m also an active leader and member of tech communities on campus."
               }
             />
             <AnimatedBody
               text={
-                "Whether it’s binge-watching my favorite anime series, cheering on Manchester United, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
+                "Whether it’s binge-watching my favorite movies, cheering on Arsenal FC, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
               }
             />
             <AnimatedBody
               text={
-                "Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+                "Right now, I’m studying Software Development Year 1 at Norton University. But I’m always open to new opportunities and collaborations."
               }
             />
           </div>
