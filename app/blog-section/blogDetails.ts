@@ -33,11 +33,11 @@ export const blogDetails = [
     available: true,
   },
   {
-    title: "The Importance of Collaboration in Achieving Successful Design",
+    title: "How to make lavalink server.",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/importance-of-collaboration-in-design",
+      "https://cdn.draxler.lol/zx.png",
+    date: "JUNE 2024",
+    url: "https://blog.heng.rocks/how-to-make-lavalink-server",
     available: true,
   },
   {
