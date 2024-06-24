@@ -40,7 +40,7 @@ export const devProjects = [
     technologies: ["Next.js", "Typescript", "Prisma"],
     github: "https://github.com/HenGPlayZ/qr-generator",
     demo: "https://qr.draxler.lol/",
-    image: require(".//../../public/projects/image_2024-06-23_23-16-34 (5).png"),
+    image: require(".//../../public/projects/image_2024-06-23_23-16-34 (sdfg.png"),
     available: true,
   },
 
