@@ -25,11 +25,11 @@ export const blogDetails = [
   //   available: false,
   // },
   {
-    title: "How to create exit animations with Framer Motion",
+    title: "How we start Horizxon Limited.",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715345723909/c71d9691-fe4c-4302-b1cb-d9dca77a99b5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
+      "https://cdn.draxler.lol/Iq.png",
+    date: "JUNE 2024",
+    url: "https://blog.heng.rocks/horizxon-limited",
     available: true,
   },
   {
@@ -47,23 +47,6 @@ export const blogDetails = [
       "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
     date: "APR 2024",
     url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
-    available: true,
-  },
-  {
-    title:
-      "2023: A Year in Review – Navigating Challenges and Embracing Growth",
-    image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1704146853987/5e5ffc0f-9d20-4cc8-ad94-00ec737ba0f5.jpeg",
-    date: "JAN 2024",
-    url: "https://blog.victorwilliams.me/2023-a-year-in-review",
-    available: true,
-  },
-  {
-    title: "Reflecting on My 18th Year: A Personal Review of 2022",
-    image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1672494063925/1ee2925f-e529-4a8b-9dd7-6eea996a34eb.png",
-    date: "DEC 2022",
-    url: "https://blog.victorwilliams.me/reflecting-on-my-18th-year-a-personal-review-of-2022",
     available: true,
   },
 ];
