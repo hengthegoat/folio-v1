@@ -35,7 +35,7 @@ export const blogDetails = [
   {
     title: "How to make lavalink server.",
     image:
-      "https://cdn.draxler.lol/zx.png",
+      "https://cdn.draxler.lol/tT.png",
     date: "JUNE 2024",
     url: "https://blog.heng.rocks/how-to-make-lavalink-server",
     available: true,
