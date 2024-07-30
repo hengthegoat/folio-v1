@@ -7,9 +7,9 @@ export type SongProps = {
 
 export const songs = [
   {
-    title: "Lie Again",
-    artist: "Giveon",
-    image: require(".//../../public/songs/lie-again.jpeg"),
+    title: "Empty",
+    artist: "Juice WRLD",
+    image: require(".//../../public/songs/juice_wrld_empty.jpg"),
     link: "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO",
   },
   {
