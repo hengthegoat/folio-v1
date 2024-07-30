@@ -12,7 +12,7 @@ const About = () => {
       <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={
-            "Greetings, I'm Heng also known as Draxler in the tech world."
+            "Hi, I'm Heng also known as Draxler in the tech world."
           }
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
@@ -63,7 +63,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "CEO at Horizxon Limited/n Dev at Sennifer/n Freshman at Norton University"
+                  "CEO at Horizxon Limited, Dev at Sennifer, Freshman at Norton University."
                 }
               />
             </div>
