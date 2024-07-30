@@ -51,7 +51,7 @@ export const songs = [
   {
     title: "I Smoked Away My Brain",
     artist: "ASAPROCKYUPTOWN",
-    image: require(".//../../public/songs/ASAPROCKYUPTOWN.jpg),
+    image: require(".//../../public/songs/ASAPROCKYUPTOWN.jpg"),
     link: "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6?si=8dd0a6d53c3d481a",
   },
   {
