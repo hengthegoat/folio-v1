@@ -93,7 +93,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "he Internet Was Almost Called The Information Superhighway: Before Internet became the term, there was a lot of talk about the Information Superhighway, which sounds more like a futuristic road system than a network of computers."
+                  "The Internet Was Almost Called The Information Superhighway: Before Internet became the term, there was a lot of talk about the Information Superhighway, which sounds more like a futuristic road system than a network of computers."
                 }
               />
             </div>
