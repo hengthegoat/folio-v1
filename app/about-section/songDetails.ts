@@ -13,10 +13,10 @@ export const songs = [
     link: "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu?si=58b4fa0cf7d441dc",
   },
   {
-    title: "Martin's Sofa",
-    artist: "Headie One",
-    image: require(".//../../public/songs/martins-sofa.jpg"),
-    link: "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O",
+    title: "MISERY",
+    artist: "Mann Doss",
+    image: require(".//../../public/songs/MISERY.jpg"),
+    link: "https://open.spotify.com/track/3BTByN4dkmjvZ2JNQ8nkTG?si=cc825d32eb7d4c24",
   },
   {
     title: "Cigarettes After Sex",
