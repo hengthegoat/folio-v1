@@ -42,11 +42,11 @@ export const blogDetails = [
   },
   {
     title:
-      "Step-by-Step Guide: Adding Google Maps to Your React App Using Vis.gl",
+      "Configuring IPv6 Through A Tunnel Broker Service.",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
-    date: "APR 2024",
-    url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
+      "https://cdn.draxler.lol/tq.png",
+    date: "JULY 2024",
+    url: "https://blog.heng.rocks/configuring-ipv6-through-a-tunnel-broker-service",
     available: true,
   },
 ];
