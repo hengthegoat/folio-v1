@@ -10,7 +10,7 @@ export const songs = [
     title: "Empty",
     artist: "Juice WRLD",
     image: require(".//../../public/songs/juice_wrld_empty.jpg"),
-    link: "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO",
+    link: "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu?si=58b4fa0cf7d441dc",
   },
   {
     title: "Martin's Sofa",
