@@ -19,10 +19,10 @@ export const songs = [
     link: "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O",
   },
   {
-    title: "Let Me Go",
-    artist: "Daniel Ceasar",
-    image: require(".//../../public/songs/let-me-go.jpg"),
-    link: "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ",
+    title: "Cigarettes After Sex",
+    artist: "Cigarettes After Sex",
+    image: require(".//../../public/songs/Cigarettes_After_Sex.jpg"),
+    link: "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA?si=TG9MwM6vTuuLthhRefq-Gg",
   },
   {
     title: "One Up",
@@ -43,10 +43,10 @@ export const songs = [
     link: "https://open.spotify.com/track/4Fmr4dbY1sZiX77ZbljNFC",
   },
   {
-    title: "Floods",
-    artist: "Lucky Daye",
-    image: require(".//../../public/songs/floods.jpg"),
-    link: "https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc",
+    title: "Mistake",
+    artist: "M-fatt",
+    image: require(".//../../public/songs/mistake_mfatt.jpg"),
+    link: "https://open.spotify.com/track/6fuxGriQglgkpBmuddGXn9?si=ae0b1502d3cf4763",
   },
   {
     title: "Nice & Good",
