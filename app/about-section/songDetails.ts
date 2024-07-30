@@ -49,10 +49,10 @@ export const songs = [
     link: "https://open.spotify.com/track/6fuxGriQglgkpBmuddGXn9?si=ae0b1502d3cf4763",
   },
   {
-    title: "Nice & Good",
-    artist: "SL, Knucks",
-    image: require(".//../../public/songs/nice-and-good.jpg"),
-    link: "https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO",
+    title: "I Smoked Away My Brain",
+    artist: "ASAPROCKYUPTOWN",
+    image: require(".//../../public/songs/ASAPROCKYUPTOWN.jpg),
+    link: "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6?si=8dd0a6d53c3d481a",
   },
   {
     title: "Care",
