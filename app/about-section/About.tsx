@@ -36,17 +36,17 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "In addition to my work in software development, I’m also an active leader and member of tech communities on campus."
+                "In addition to my work in software development, I also love playing football to stay active and enjoy teamwork."
               }
             />
             <AnimatedBody
               text={
-                "Whether it’s binge-watching my favorite movies, cheering on Arsenal FC, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
+                "Whether I'm diving into a movie marathon, supporting Arsenal FC, catching up with friends, or exploring new tunes in RnB, Shoegaze, and Chill Rap, I’m constantly seeking ways to de-stress and have a good time."
               }
             />
             <AnimatedBody
               text={
-                "Right now, I’m studying Software Development Year 1 at Norton University. But I’m always open to new opportunities and collaborations."
+                "Right now, I’m studying Software Development Year 1 at Norton University."
               }
             />
           </div>
@@ -93,7 +93,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "The Internet Was Almost Called The Information Superhighway: Before Internet became the term, there was a lot of talk about the Information Superhighway, which sounds more like a futuristic road system than a network of computers."
+                  "First Computer Virus: The Creeper virus from 1971 was the first self-replicating program and displayed the message, I’m the Creeper, catch me if you can!"
                 }
               />
             </div>
