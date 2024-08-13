@@ -46,7 +46,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "Right now, I’m studying Software Development Year 1 at Norton University."
+                "Now, I’m studying Software Development Year 1 at Norton University."
               }
             />
           </div>
