@@ -40,11 +40,11 @@ export const metadata: Metadata = {
     title: "Tang Heng - Software Developer",
     description:
       "Software Developer and Freelancer, currently a student at NUS. Focused on interfaces and experiences, working remotely from Cambodia.",
-    url: "https://draxler.lol/",
-    siteName: "draxler.lol",
+    url: "https://hengnation.eu/",
+    siteName: "hengnation.eu",
     images: [
       {
-        url: "https://cdn.draxler.lol/Dq.png",
+        url: "https://cdn.hengnation.eu/Dq.png",
         width: 1200,
         height: 630,
         alt: "Tang Heng - Software Developer",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     creator: "stuvythegoat",
     creatorId: "1412410690141310982",
     images: [
-      "https://cdn.draxler.lol/Dq.png",
+      "https://cdn.hengnation.eu/Dq.png",
     ],
   },
   robots: {

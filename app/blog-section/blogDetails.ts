@@ -27,26 +27,26 @@ export const blogDetails = [
   {
     title: "How we start Horizxon Limited.",
     image:
-      "https://cdn.draxler.lol/Iq.png",
+      "https://cdn.hengnation.eu/Iq.png",
     date: "JUNE 2024",
-    url: "https://blog.heng.rocks/horizxon-limited",
+    url: "https://blog.hengnation.eu/horizxon-limited",
     available: true,
   },
   {
     title: "How to make lavalink server.",
     image:
-      "https://cdn.draxler.lol/tT.png",
+      "https://cdn.hengnation.eu/tT.png",
     date: "JUNE 2024",
-    url: "https://blog.heng.rocks/how-to-make-lavalink-server",
+    url: "https://blog.hengnation.eu/how-to-make-lavalink-server",
     available: true,
   },
   {
     title:
       "Configuring IPv6 Through A Tunnel Broker Service.",
     image:
-      "https://cdn.draxler.lol/tq.png",
+      "https://cdn.hengnation.eu/tq.png",
     date: "JULY 2024",
-    url: "https://blog.heng.rocks/configuring-ipv6-through-a-tunnel-broker-service",
+    url: "https://blog.hengnation.eu/configuring-ipv6-through-a-tunnel-broker-service",
     available: true,
   },
 ];
