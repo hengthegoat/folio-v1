@@ -25,7 +25,7 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "My passion lies in creating software that solves real-world problems and positively impacts people’s lives."
+                "My passion is developing software that improves people's lives and addresses real-world issues."
               }
             />
             <AnimatedBody
@@ -41,7 +41,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "Whether I'm diving into a movie marathon, supporting Arsenal FC, catching up with friends, or exploring new tunes in RnB, Shoegaze, and Chill Rap, I’m constantly seeking ways to de-stress and have a good time."
+                "Whether I'm in a movie marathon, supporting Arsenal FC, catching up with friends, or exploring new tunes in RnB, Shoegaze, and Chill Rap, I’m always looking for ways to relax and have fun."
               }
             />
             <AnimatedBody
