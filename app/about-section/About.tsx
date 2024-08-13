@@ -41,7 +41,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "Whether I'm in a movie marathon, supporting Arsenal FC, catching up with friends, or exploring new tunes in RnB, Shoegaze, and Chill Rap, I’m always looking for ways to relax and have fun."
+                "Whether I'm watching movies, cheering for Arsenal FC, hanging out with friends, or exploring new RnB, Shoegaze, and Chill Rap, I’m always seeking ways to relax and have fun."
               }
             />
             <AnimatedBody
