@@ -44,17 +44,17 @@ export const devProjects = [
     available: true,
   },
 
-  // {
-  //   id: 4,
-  //   name: "Alpaca Image Generator",
-  //   description:
-  //     "An image generator website that allows users to generate, combine, and download images.",
-  //   technologies: ["React", "CSS", "Merge Images"],
-  //   github: "https://github.com/victorcodess/alpaca-image-generator",
-  //   demo: "http://alpaca-image-generator-beta.vercel.app",
-  //   image: require(".//../../public/projects/alpaca-flip.png"),
-  //   available: true,
-  // },
+   {
+     id: 3,
+     name: "Horizxon lavalink Rest API",
+     description:
+       "Lavalink Monitoring & Status: Real-Time Analytics and Performance Insights",
+     technologies: ["HTML", "CSS", "JavaScript"],
+     github: "https://github.com/HenGPlayZ/lavalink-rest-api",
+     demo: "https://api.lavalink.rocks/",
+     image: require(".../../public/projects/lavaapi.png"),
+     available: true,
+   },
 
   // {
   //   id: 5,
