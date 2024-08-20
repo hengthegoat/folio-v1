@@ -52,7 +52,7 @@ export const devProjects = [
      technologies: ["HTML", "CSS", "JavaScript"],
      github: "https://github.com/HenGPlayZ/lavalink-rest-api",
      demo: "https://api.lavalink.rocks/",
-     image: require(".../../public/projects/lavaapi.png"),
+     image: require(".//../../public/projects/lavaapi.png"),
      available: true,
    },
 
