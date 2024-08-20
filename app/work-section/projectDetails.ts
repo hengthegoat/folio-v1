@@ -39,7 +39,7 @@ export const devProjects = [
       "Simple and free to use, your QR code generator allows you to create high-quality codes in just a few steps.",
     technologies: ["Next.js", "Typescript", "Prisma"],
     github: "https://github.com/HenGPlayZ/qr-generator",
-    demo: "https://qr.hengnation.eu/",
+    demo: "https://qr.hengnation.dev/",
     image: require(".//../../public/projects/image_2024-06-23_23-16-34 (sdfg.png"),
     available: true,
   },
