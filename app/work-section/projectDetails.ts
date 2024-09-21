@@ -50,7 +50,7 @@ export const devProjects = [
      description:
        "Lavalink Monitoring & Status: Real-Time Analytics and Performance Insights",
      technologies: ["HTML", "CSS", "JavaScript"],
-     github: "https://github.com/HenGPlayZ/lavalink-rest-api",
+     github: "https://github.com/HenGPlayZ/lavalink-status",
      demo: "https://api.lavalink.rocks/",
      image: require(".//../../public/projects/lavaapi.png"),
      available: true,
