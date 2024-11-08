@@ -18,6 +18,8 @@ export const metadata: Metadata = {
   applicationName: "Tang Heng",
   keywords: [
     "freelance",
+    "cambodia developer",
+    "cambodian developer",
     "developer",
     "freelance developer",
     "frontend",
@@ -28,7 +30,8 @@ export const metadata: Metadata = {
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "cambodia",
+    "kh",
     "software",
     "software developer",
     "portfolio",
